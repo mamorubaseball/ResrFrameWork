@@ -1,0 +1,294 @@
+{
+  "status": "done",
+  "assets": {
+    "bundle.js": {
+      "name": "bundle.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/bundle.js",
+      "publicPath": "http://0.0.0.0:8080/bundle.js"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/index.html",
+      "publicPath": "http://0.0.0.0:8080/index.html"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/favicon.ico",
+      "publicPath": "http://0.0.0.0:8080/favicon.ico"
+    },
+    "01f40b049956990fff69.hot-update.json": {
+      "name": "01f40b049956990fff69.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/01f40b049956990fff69.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/01f40b049956990fff69.hot-update.json"
+    },
+    "app.387ed67fd2cc4f64c4fb.hot-update.js": {
+      "name": "app.387ed67fd2cc4f64c4fb.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.387ed67fd2cc4f64c4fb.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.387ed67fd2cc4f64c4fb.hot-update.js"
+    },
+    "387ed67fd2cc4f64c4fb.hot-update.json": {
+      "name": "387ed67fd2cc4f64c4fb.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/387ed67fd2cc4f64c4fb.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/387ed67fd2cc4f64c4fb.hot-update.json"
+    },
+    "app.af1de7a00de497683cda.hot-update.js": {
+      "name": "app.af1de7a00de497683cda.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.af1de7a00de497683cda.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.af1de7a00de497683cda.hot-update.js"
+    },
+    "af1de7a00de497683cda.hot-update.json": {
+      "name": "af1de7a00de497683cda.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/af1de7a00de497683cda.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/af1de7a00de497683cda.hot-update.json"
+    },
+    "app.035c2ac7a999f4afe151.hot-update.js": {
+      "name": "app.035c2ac7a999f4afe151.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.035c2ac7a999f4afe151.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.035c2ac7a999f4afe151.hot-update.js"
+    },
+    "035c2ac7a999f4afe151.hot-update.json": {
+      "name": "035c2ac7a999f4afe151.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/035c2ac7a999f4afe151.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/035c2ac7a999f4afe151.hot-update.json"
+    },
+    "app.f6f95c8c4367d8c639e9.hot-update.js": {
+      "name": "app.f6f95c8c4367d8c639e9.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.f6f95c8c4367d8c639e9.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.f6f95c8c4367d8c639e9.hot-update.js"
+    },
+    "f6f95c8c4367d8c639e9.hot-update.json": {
+      "name": "f6f95c8c4367d8c639e9.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/f6f95c8c4367d8c639e9.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/f6f95c8c4367d8c639e9.hot-update.json"
+    },
+    "app.52bbe48e66bd9667a3bb.hot-update.js": {
+      "name": "app.52bbe48e66bd9667a3bb.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.52bbe48e66bd9667a3bb.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.52bbe48e66bd9667a3bb.hot-update.js"
+    },
+    "52bbe48e66bd9667a3bb.hot-update.json": {
+      "name": "52bbe48e66bd9667a3bb.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/52bbe48e66bd9667a3bb.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/52bbe48e66bd9667a3bb.hot-update.json"
+    },
+    "app.1381b374992a791450af.hot-update.js": {
+      "name": "app.1381b374992a791450af.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.1381b374992a791450af.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.1381b374992a791450af.hot-update.js"
+    },
+    "1381b374992a791450af.hot-update.json": {
+      "name": "1381b374992a791450af.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/1381b374992a791450af.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/1381b374992a791450af.hot-update.json"
+    },
+    "app.a6d411d2f66553da6e67.hot-update.js": {
+      "name": "app.a6d411d2f66553da6e67.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.a6d411d2f66553da6e67.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.a6d411d2f66553da6e67.hot-update.js"
+    },
+    "a6d411d2f66553da6e67.hot-update.json": {
+      "name": "a6d411d2f66553da6e67.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/a6d411d2f66553da6e67.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/a6d411d2f66553da6e67.hot-update.json"
+    },
+    "b1abf67b5fa1b6fd399e.hot-update.json": {
+      "name": "b1abf67b5fa1b6fd399e.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/b1abf67b5fa1b6fd399e.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/b1abf67b5fa1b6fd399e.hot-update.json"
+    },
+    "app.8fb8cf9da3553433d39b.hot-update.js": {
+      "name": "app.8fb8cf9da3553433d39b.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.8fb8cf9da3553433d39b.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.8fb8cf9da3553433d39b.hot-update.js"
+    },
+    "8fb8cf9da3553433d39b.hot-update.json": {
+      "name": "8fb8cf9da3553433d39b.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/8fb8cf9da3553433d39b.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/8fb8cf9da3553433d39b.hot-update.json"
+    },
+    "app.ec242e4d924b78dd38e3.hot-update.js": {
+      "name": "app.ec242e4d924b78dd38e3.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.ec242e4d924b78dd38e3.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.ec242e4d924b78dd38e3.hot-update.js"
+    },
+    "ec242e4d924b78dd38e3.hot-update.json": {
+      "name": "ec242e4d924b78dd38e3.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/ec242e4d924b78dd38e3.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/ec242e4d924b78dd38e3.hot-update.json"
+    },
+    "app.1eb8a555da3bd353c7f0.hot-update.js": {
+      "name": "app.1eb8a555da3bd353c7f0.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.1eb8a555da3bd353c7f0.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.1eb8a555da3bd353c7f0.hot-update.js"
+    },
+    "1eb8a555da3bd353c7f0.hot-update.json": {
+      "name": "1eb8a555da3bd353c7f0.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/1eb8a555da3bd353c7f0.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/1eb8a555da3bd353c7f0.hot-update.json"
+    },
+    "app.ae6e6a626200de470040.hot-update.js": {
+      "name": "app.ae6e6a626200de470040.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.ae6e6a626200de470040.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.ae6e6a626200de470040.hot-update.js"
+    },
+    "ae6e6a626200de470040.hot-update.json": {
+      "name": "ae6e6a626200de470040.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/ae6e6a626200de470040.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/ae6e6a626200de470040.hot-update.json"
+    },
+    "app.015f8eb39c7f8f4bd370.hot-update.js": {
+      "name": "app.015f8eb39c7f8f4bd370.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.015f8eb39c7f8f4bd370.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.015f8eb39c7f8f4bd370.hot-update.js"
+    },
+    "015f8eb39c7f8f4bd370.hot-update.json": {
+      "name": "015f8eb39c7f8f4bd370.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/015f8eb39c7f8f4bd370.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/015f8eb39c7f8f4bd370.hot-update.json"
+    },
+    "675486c7eda9c8cde224.hot-update.json": {
+      "name": "675486c7eda9c8cde224.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/675486c7eda9c8cde224.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/675486c7eda9c8cde224.hot-update.json"
+    },
+    "828b064216140781bf81.hot-update.json": {
+      "name": "828b064216140781bf81.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/828b064216140781bf81.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/828b064216140781bf81.hot-update.json"
+    },
+    "app.3fd9ab015c03bdabfcae.hot-update.js": {
+      "name": "app.3fd9ab015c03bdabfcae.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.3fd9ab015c03bdabfcae.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.3fd9ab015c03bdabfcae.hot-update.js"
+    },
+    "3fd9ab015c03bdabfcae.hot-update.json": {
+      "name": "3fd9ab015c03bdabfcae.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/3fd9ab015c03bdabfcae.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/3fd9ab015c03bdabfcae.hot-update.json"
+    },
+    "app.b85dc3776ed140332718.hot-update.js": {
+      "name": "app.b85dc3776ed140332718.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.b85dc3776ed140332718.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.b85dc3776ed140332718.hot-update.js"
+    },
+    "b85dc3776ed140332718.hot-update.json": {
+      "name": "b85dc3776ed140332718.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/b85dc3776ed140332718.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/b85dc3776ed140332718.hot-update.json"
+    },
+    "30cdaefdef2c84b5f2a2.hot-update.json": {
+      "name": "30cdaefdef2c84b5f2a2.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/30cdaefdef2c84b5f2a2.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/30cdaefdef2c84b5f2a2.hot-update.json"
+    },
+    "app.b249939401201b1e8199.hot-update.js": {
+      "name": "app.b249939401201b1e8199.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.b249939401201b1e8199.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.b249939401201b1e8199.hot-update.js"
+    },
+    "b249939401201b1e8199.hot-update.json": {
+      "name": "b249939401201b1e8199.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/b249939401201b1e8199.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/b249939401201b1e8199.hot-update.json"
+    },
+    "app.06f9f3155530c4619182.hot-update.js": {
+      "name": "app.06f9f3155530c4619182.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.06f9f3155530c4619182.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.06f9f3155530c4619182.hot-update.js"
+    },
+    "06f9f3155530c4619182.hot-update.json": {
+      "name": "06f9f3155530c4619182.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/06f9f3155530c4619182.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/06f9f3155530c4619182.hot-update.json"
+    },
+    "app.8683ba3ecda1b8a12d19.hot-update.js": {
+      "name": "app.8683ba3ecda1b8a12d19.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.8683ba3ecda1b8a12d19.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.8683ba3ecda1b8a12d19.hot-update.js"
+    },
+    "8683ba3ecda1b8a12d19.hot-update.json": {
+      "name": "8683ba3ecda1b8a12d19.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/8683ba3ecda1b8a12d19.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/8683ba3ecda1b8a12d19.hot-update.json"
+    },
+    "app.a112a2150d83ac900f68.hot-update.js": {
+      "name": "app.a112a2150d83ac900f68.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.a112a2150d83ac900f68.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.a112a2150d83ac900f68.hot-update.js"
+    },
+    "a112a2150d83ac900f68.hot-update.json": {
+      "name": "a112a2150d83ac900f68.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/a112a2150d83ac900f68.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/a112a2150d83ac900f68.hot-update.json"
+    },
+    "app.3cce842289950e37d806.hot-update.js": {
+      "name": "app.3cce842289950e37d806.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.3cce842289950e37d806.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.3cce842289950e37d806.hot-update.js"
+    },
+    "3cce842289950e37d806.hot-update.json": {
+      "name": "3cce842289950e37d806.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/3cce842289950e37d806.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/3cce842289950e37d806.hot-update.json"
+    },
+    "app.97b4ca48cd17e5f5bba5.hot-update.js": {
+      "name": "app.97b4ca48cd17e5f5bba5.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.97b4ca48cd17e5f5bba5.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.97b4ca48cd17e5f5bba5.hot-update.js"
+    },
+    "97b4ca48cd17e5f5bba5.hot-update.json": {
+      "name": "97b4ca48cd17e5f5bba5.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/97b4ca48cd17e5f5bba5.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/97b4ca48cd17e5f5bba5.hot-update.json"
+    },
+    "app.e29085e74219e1f0159c.hot-update.js": {
+      "name": "app.e29085e74219e1f0159c.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.e29085e74219e1f0159c.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.e29085e74219e1f0159c.hot-update.js"
+    },
+    "e29085e74219e1f0159c.hot-update.json": {
+      "name": "e29085e74219e1f0159c.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/e29085e74219e1f0159c.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/e29085e74219e1f0159c.hot-update.json"
+    },
+    "app.c04dd2ea983f59599cd1.hot-update.js": {
+      "name": "app.c04dd2ea983f59599cd1.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.c04dd2ea983f59599cd1.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.c04dd2ea983f59599cd1.hot-update.js"
+    },
+    "c04dd2ea983f59599cd1.hot-update.json": {
+      "name": "c04dd2ea983f59599cd1.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/c04dd2ea983f59599cd1.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/c04dd2ea983f59599cd1.hot-update.json"
+    },
+    "app.0ebdc19c760b7ff08389.hot-update.js": {
+      "name": "app.0ebdc19c760b7ff08389.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.0ebdc19c760b7ff08389.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.0ebdc19c760b7ff08389.hot-update.js"
+    },
+    "0ebdc19c760b7ff08389.hot-update.json": {
+      "name": "0ebdc19c760b7ff08389.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/0ebdc19c760b7ff08389.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/0ebdc19c760b7ff08389.hot-update.json"
+    },
+    "app.407bcf17d3b5a68da350.hot-update.js": {
+      "name": "app.407bcf17d3b5a68da350.hot-update.js",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/app.407bcf17d3b5a68da350.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.407bcf17d3b5a68da350.hot-update.js"
+    },
+    "407bcf17d3b5a68da350.hot-update.json": {
+      "name": "407bcf17d3b5a68da350.hot-update.json",
+      "path": "/Users/mamoru/Django/RestFrameWork/fronted/dist/407bcf17d3b5a68da350.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/407bcf17d3b5a68da350.hot-update.json"
+    }
+  },
+  "chunks": {
+    "app": [
+      "bundle.js",
+      "app.407bcf17d3b5a68da350.hot-update.js"
+    ]
+  },
+  "publicPath": "http://0.0.0.0:8080/",
+  "error": "ModuleError",
+  "message": "Module Error (from ./node_modules/eslint-loader/index.js):\n\n/Users/mamoru/Django/RestFrameWork/fronted/src/views/Home.vue\n   7:23  warning  Delete `·`                                                                             prettier/prettier\n   8:25  warning  Replace `'job'·,·params·:·{·id:job.id·}·}\"·` with `·'job',·params:·{·id:·job.id·}·}\"`  prettier/prettier\n  11:11  warning  Insert `··`                                                                            prettier/prettier\n  11:18  error    Parsing error: Unexpected end of expression                                            vue/no-parsing-error\n  12:1   warning  Replace `········` with `············`                                                 prettier/prettier\n  15:1   warning  Delete `····`                                                                          prettier/prettier\n  23:28  warning  Replace `'../common/api.service.js'` with `\"../common/api.service.js\";`                prettier/prettier\n  27:9   warning  Insert `·`                                                                             prettier/prettier\n  28:11  warning  Insert `·`                                                                             prettier/prettier\n  29:12  warning  Replace `[]` with `·[],`                                                               prettier/prettier\n  30:6   warning  Insert `;`                                                                             prettier/prettier\n  32:11  warning  Insert `·`                                                                             prettier/prettier\n  33:14  warning  Insert `·`                                                                             prettier/prettier\n  34:19  warning  Replace `=·'api/jobs/'` with `·=·\"api/jobs/\";`                                         prettier/prettier\n  35:33  warning  Replace `data=>` with `(data)·=>·`                                                     prettier/prettier\n  36:40  warning  Insert `;`                                                                             prettier/prettier\n  37:1   warning  Replace `········})` with `······});`                                                  prettier/prettier\n  38:6   warning  Replace `···` with `,`                                                                 prettier/prettier\n  41:1   warning  Replace `created()` with `··created()·`                                                prettier/prettier\n  42:1   warning  Replace `··this.getJobs()` with `····this.getJobs();`                                  prettier/prettier\n  43:1   warning  Replace `··console.log(this.jobs)` with `····console.log(this.jobs);`                  prettier/prettier\n  44:1   warning  Replace `··document.title=`job·boar`` with `····document.title·=·`job·boar`;`          prettier/prettier\n  45:5   warning  Delete `·`                                                                             prettier/prettier\n  50:10  warning  Insert `·`                                                                             prettier/prettier\n  54:1   warning  Delete `⏎`                                                                             prettier/prettier\n  56:16  warning  Insert `·`                                                                             prettier/prettier\n  57:13  warning  Replace `B` with `b`                                                                   prettier/prettier\n\n✖ 27 problems (1 error, 26 warnings)\n  0 errors and 26 warnings potentially fixable with the `--fix` option.\n"
+}
